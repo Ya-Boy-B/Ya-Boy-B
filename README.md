@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ya-Boy-B
 - 😄 Pronouns: He/Him/His
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, HTML, and CSS
 - 📫 How to reach me: I'm yaboyb on Discord
 - ⚡ Fun fact: The best thing about HeroQuest is the brodesword
 
